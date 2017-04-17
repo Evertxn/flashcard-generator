@@ -1,0 +1,26 @@
+[
+  {
+    "partial": "Albany is the capital of New York.",
+    "cloze": "Albany"
+  },
+  {
+    "partial": "Kingston is the capital of Jamaica.",
+    "cloze": "Kingston"
+  },
+  {
+    "partial": "Moscow is the capital of Russia.",
+    "cloze": "Moscow"
+  },
+  {
+    "partial": "South Korea's capital is Seoul.",
+    "cloze": "Seoul"
+  },
+  {
+    "partial": "Madrid is the capital of Spain.",
+    "cloze": "Madrid"
+  },
+  {
+    "partial": "The capital of Japan is Tokyo.",
+    "cloze": "Japan"
+  }
+]
