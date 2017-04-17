@@ -1,26 +1,30 @@
 [
-  {
-    "front": "... is the capital of New York.",
-    "back": "Albany"
-  },
-  {
-    "front": "... is the capital of Jamaica.",
-    "back": "Kingston"
-  },
-  {
-    "front": "The capital of Russia is ...",
-    "back": "Moscow"
-  },
-  {
-    "front": "South Korea's capital is ...",
-    "back": "Seoul"
-  },
-  {
-    "front": "... is the capital of Spain.",
-    "back": "Madrid"
-  },
-  {
-    "front": "The capital of ... is Tokyo.",
-    "back": "Japan"
-  }
+	{
+		"front": "... is the capital of New York.",
+		"back": "Albany"
+	},
+	{
+		"front": "... is the capital of Jamaica.",
+		"back": "Kingston"
+	},
+	{
+		"front": "The capital of Russia is ...",
+		"back": "Moscow"
+	},
+	{
+		"front": "South Korea's capital is ...",
+		"back": "Seoul"
+	},
+	{
+		"front": "... is the capital of Spain.",
+		"back": "Madrid"
+	},
+	{
+		"front": "The capital of ... is Tokyo.",
+		"back": "Japan"
+	},
+	{
+		"front": "",
+		"back": ""
+	}
 ]
